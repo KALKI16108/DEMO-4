@@ -1,6 +1,6 @@
 {
-  "name": "Smilix Dental Clinic",
-  "description": "A modern, premium dental clinic landing page featuring tailored treatments, clear aligners, patient testimonials, and secure booking flows.",
+  "name": "Dr. Nidhi's Dental Clinic",
+  "description": "Best Dental Clinic in Goregaon. Dr. Nidhi's Dental Clinic offers high-quality teeth whitening, dental implants, root canals, braces, and clear aligners treatment.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
